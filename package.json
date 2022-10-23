@@ -1,6 +1,6 @@
 {
     "name": "Shiro-md",
-    "version": "3.5.4",
+    "version": "18.11.0",
     "description": "Simple Bot WhatsApp",
     "depecrated": false,
     "main": "index.js",
